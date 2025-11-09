@@ -3,7 +3,7 @@ if (args === 0) {
     console.log("No argument");
 }
 else if (args.length === 1) {
-        console.log("argument foud");
+        console.log("Argument foud");
     } else {
-        console.log("arguments found");
+        console.log("Arguments found");
     }
